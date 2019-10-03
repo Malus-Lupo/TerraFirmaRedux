@@ -11,6 +11,7 @@ make peanut butter makes since. How ever in pams there is a chicken sandwich, an
 chicken sandwich, for some reason you make the chicken sandwich first, then you craft it with 
 lettuce to make the leafy chicken sandwich. This should not be the case. There should be 2 full
 chicken sandwich recipes one with lettuce added to the end and one with out resulting in each sandwich.
+Also the cutting board is replaced by the knife, please use its oredict. And when using other tools from Pams in the Chef Table please make sure you set the default damage of 0 to 1, or the game will not like it.
 
 Other foods like cooking oil, jelly, or bbq sauce can also have there own recipe.
 
@@ -18,4 +19,3 @@ Please keep the list of workstation recipes and removed recipes separate, and pl
 in if you also replaced the original recipe with a work station recipe.
 
 Also if you wish to add old textures, I have a goal to replace every texture from this pack, with the equivalent TFC texture, where allowed. Only if the item or block should have that texture. Like iron gear from vanilla, bronze gear from thermal foundation, vanilla foods etc.
-Also the cutting board is replaced by the knife, please use its oredict. And when using other tools from Pams in the Chef Table please make sure you set the default damage of 0 to 1, or the game will not like it.
