@@ -1,5 +1,6 @@
 # TerraFirmaRedux
-Minecraft 1.12.2 Mod Pack based off TerraFirmaCraft
+Minecraft 1.12.2 Mod Pack based off TerraFirmaCraft.
+
 Right now I am only looking for help with the cooking script. Recipes can be added easily by opening the game, 
 going into creative, opening the Chef Workstation, and pressing the creative mode button.
 
